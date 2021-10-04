@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(255, 241, 243);
+}
+
+.border {
+    position:fixed;
+    bottom:0px;
+    right:0px;
+}
+
+.heading {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 25px;
+    color: rgb(255, 177, 193);
+    position: absolute;
+    top: 180px;
+    right: 665px;
+}
+
+.heading2 {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    color: rgb(255, 241, 243);
+    position: absolute;
+    top: 280px;
+    right: 650px;
+}
+.nintendhoe {
+    position:absolute;
+    top:75px;
+    right:470px;
+}
+
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 187px;
+    z-index: 1;
+}
+
+.sidebar {
+    position: absolute;
+    left: 40px;
+    top: 240px;
+    z-index: 2;
+}
+
+.sidetext1 {
+    font-family: "ＭＳ Ｐゴシック";
+    font-size: 40px;
+    color: rgb(255, 177, 193);
+    position: absolute;
+    left: 220px;
+    top: 275px;
+
+}
+
+.sidetext2 {
+    font-family: "ＭＳ Ｐゴシック";
+    font-size: 40px;
+    color: rgb(26, 11, 14);
+    position: absolute;
+    left: 220px;
+    top: 427px;
+
+}
+
+.button {
+    position: absolute;
+    left: 110px;
+    top: 305.5px;
+}
+
+.left-container {
+    background-color: rgb(255, 255, 255);
+    height: 978px;
+    width: 500px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    z-index: -1;
+    }
+
+.nintendo {
+    background-color: rgb(14, 11, 11);
+    height: 300px;
+    width: 550px;
+    position: absolute;
+    top: 130px;
+    left: 800px;
+    z-index: -2;
+    }
+
